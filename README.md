@@ -8,5 +8,4 @@ this project is working on CRUD on loggers.js verification
 [~/] $ npm i express
 [~/] $ npm run dev
 
-![Minion](https://upload.cc/i1/2019/08/06/IjdOaG.gif
-)
+![Minion](https://upload.cc/i1/2019/08/06/IjdOaG.gif)
