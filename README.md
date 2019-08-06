@@ -4,7 +4,7 @@ this project is working on CRUD on loggers.js verification
 
 # Getting Start
 <pre><code>
-[~/] $ git clone https://github.com/judy1230/A19_sem3_todo_sequelize.git
+[~/] $ git clone https://github.com/judy1230/sem3_finalexam_q1.git
 [~/] $ npm i express
 [~/] $ npm run dev
 
