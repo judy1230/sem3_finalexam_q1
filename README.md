@@ -1,6 +1,7 @@
 # Project
 <h3>Middleware Logger</h3>
-this project is working on CRUD on loggers.js verification
+1. this project is working on CRUD on loggers.js verification
+2. /verification/logger.js
 
 # Getting Start
 <pre><code>
